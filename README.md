@@ -1,2 +1,13 @@
-# SSH-Multi-Tool-Updates
-Official SSH Multi Tool Releases &amp; Auto Updates
+# SSH Multi Tool — релізи та оновлення
+
+**[Завантажити SSH-Multi-Tool.exe 3.0.6](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/download/v3.0.6/SSH-Multi-Tool.exe)**
+
+[Сторінка релізу 3.0.6 та опис змін](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/tag/v3.0.6) · [Усі релізи](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases)
+
+Збережіть EXE у папку, доступну вам на запис, і запустіть. Окремий інсталятор або запуск оновлювача не потрібні. Перше завантаження після 3.0.5 — вручну; наступні стабільні версії перевіряються під час запуску.
+
+Налаштування: обліковий запис і збереження пароля Windows, оформлення, версія та перевірка оновлень, адміністрування. Для моніторингу нового пристрою потрібен одноразовий код адміністратора.
+
+У **Releases → Assets** основний файл для користувача — `SSH-Multi-Tool.exe`. ZIP, `manifest.json`, `manifest.sig` та `SHA256SUMS.txt` використовуються механізмом підписаних оновлень. EXE не лежить серед вихідних файлів вкладки Code.
+
+Цей репозиторій призначений для бінарних релізів. Вихідний код розробляється у приватному репозиторії.
