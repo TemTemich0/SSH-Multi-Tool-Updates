@@ -1,12 +1,14 @@
 # SSH Multi Tool — релізи та оновлення
 
-**[Завантажити SSH-Multi-Tool.exe 3.0.6](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/download/v3.0.6/SSH-Multi-Tool.exe)**
+**[Завантажити SSH-Multi-Tool.exe 3.0.7](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/download/v3.0.7/SSH-Multi-Tool.exe)**
 
-[Сторінка релізу 3.0.6 та опис змін](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/tag/v3.0.6) · [Усі релізи](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases)
+[Сторінка релізу 3.0.7 та опис змін](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases/tag/v3.0.7) · [Усі релізи](https://github.com/TemTemich0/SSH-Multi-Tool-Updates/releases)
+
+Збірку виконано локально на Windows. GitHub зберігає готові файли.
 
 Збережіть EXE у папку, доступну вам на запис, і запустіть. Окремий інсталятор або запуск оновлювача не потрібні. Перше завантаження після 3.0.5 — вручну; наступні стабільні версії перевіряються під час запуску.
 
-Налаштування: обліковий запис і збереження пароля Windows, оформлення, версія та перевірка оновлень, адміністрування. Для моніторингу нового пристрою потрібен одноразовий код адміністратора.
+Налаштування: обліковий запис і збереження пароля Windows, оформлення, версія та перевірка оновлень, адміністрування. Для моніторингу нового пристрою відкрийте «Команда та доступ» → «Надіслати запит доступу». Адміністратор підтвердить пристрій у своїй панелі. Код потрібен лише для перенесення захищених адмінських прав.
 
 У **Releases → Assets** основний файл для користувача — `SSH-Multi-Tool.exe`. ZIP, `manifest.json`, `manifest.sig` та `SHA256SUMS.txt` використовуються механізмом підписаних оновлень. EXE не лежить серед вихідних файлів вкладки Code.
 
